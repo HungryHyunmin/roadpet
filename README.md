@@ -21,5 +21,20 @@
 <br>
 
 ## ⚒ 개발환경
--Java 8
--Spring Framework 
+
+### 어플리케이션
+- Java 8
+- Spring Framework(Spring MVC) 5.0.1
+- Mybatis
+- Maven
+
+### 아키텍처
+![image](https://user-images.githubusercontent.com/88185304/147044361-b98c14b3-5597-439d-8170-abbaa3041e14.png)
+- MySql(DBeaver)
+
+### 협업
+- Notion
+- Github
+- Slack
+- Figma
+- SourceTree
