@@ -28,9 +28,14 @@
 - Mybatis
 - Maven
 
+<br>
+
 ### 아키텍처
-![image](https://user-images.githubusercontent.com/88185304/147044361-b98c14b3-5597-439d-8170-abbaa3041e14.png)
+![image](https://github.com/HungryHyunmin/roadpet-Spring/assets/139208998/0b837723-20ef-47cd-80a9-89aa3fc63e52)
+
 - MySql(DBeaver)
+
+<br>
 
 ### 협업
 - Notion
