@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 		<meta charset="UTF-8">
 		
-		<title>로드펫-펫 홈</title>		
+		<title>로드펫-펫홈</title>		
 		<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	    <meta content="" name="keywords">
 	    <meta content="" name="description">
