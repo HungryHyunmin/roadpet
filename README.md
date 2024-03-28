@@ -27,13 +27,13 @@
 - Spring Framework(Spring MVC) 5.0.1
 - Mybatis
 - Maven
+- MySql(DBeaver)
 
 <br>
 
 ### 아키텍처
 ![image](https://github.com/HungryHyunmin/roadpet-Spring/assets/139208998/0b837723-20ef-47cd-80a9-89aa3fc63e52)
 
-- MySql(DBeaver)
 
 <br>
 
