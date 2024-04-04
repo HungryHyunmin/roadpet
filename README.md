@@ -41,7 +41,8 @@
   <br>
 
 ### 아키텍처
-![image](https://github.com/HungryHyunmin/roadpet-Spring/assets/139208998/dc2cdbf4-214e-4277-80a6-e2613dd5bb9f)
+![image](https://github.com/HungryHyunmin/roadpet-Spring/assets/139208998/b805c678-ce17-40e3-884b-d5f86ec53c23)
+
 
 ### ERD
 ![image](https://github.com/HungryHyunmin/roadpet-Spring/assets/139208998/17fd5528-ead8-489e-bf27-4fdcb9b4230d)
